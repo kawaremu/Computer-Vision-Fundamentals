@@ -1,3 +1,5 @@
 .vscode
 コンピュータビジョン.code-workspace
 .ipynb_checkpoints
+__pycache__/
+*.py
